@@ -3,7 +3,7 @@
 >inputFile
 chmod 755 inputFile
 
-COUNT="${1:-10}"
+COUNT=10
 i=0
 
 while [ $i -lt $COUNT ]
